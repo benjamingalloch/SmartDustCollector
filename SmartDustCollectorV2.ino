@@ -1,16 +1,5 @@
 
 
-/*
- * This code is for the project at 
- * http://www.iliketomakestuff.com/how-to-automate-a-dust-collection-system-arduino
- * All of the components are list on the url above.
- * 
-This script was created by Bob Clagett for I Like To Make Stuff
-For more projects, check out iliketomakestuff.com
-Includes Modified version of "Measuring AC Current Using ACS712"
-http://henrysbench.capnfatz.com/henrys-bench/arduino-current-measurements/acs712-arduino-ac-current-tutorial/
-Parts of this sketch were taken from the keypad and servo sample sketches that comes with the keypad and servo libraries.
-Uses https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library
 */
 #include <Wire.h>
 #include <Adafruit_PWMServoDriver.h>
